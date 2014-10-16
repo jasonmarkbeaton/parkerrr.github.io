@@ -1,0 +1,32 @@
+# Site Settings
+baseurl: 		""
+title: 			Parker - Web Architect
+
+name: 			Welcome <i>to</i> Parker
+description: 	The 
+url: 			"http://localhost:4000"
+
+paginate: 		3
+paginate_path: 	"blog/page:num"
+
+twitter: 		thnkco
+email: 			hello@parkerrr.com
+
+disqus: 		yetle99
+analytics: 		UA-XXXXXXX-Y
+
+copyright: 		Copyright 2014 Jason Beaton.	
+
+# Build Settings
+permalinks: 	pretty
+
+# Dribbble
+dribbble_set:
+  user:            'parkerrr'
+  shots_per_page:  15
+  page:            1
+  gallery_tag:     'ol'
+  gallery_class:   'dribbble_gallery'
+  is_list:         true
+  a_target:        '_blank'
+  full_size:       false
