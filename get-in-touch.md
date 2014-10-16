@@ -5,20 +5,14 @@ title:  		Get In Touch
 type:			page
 navigation: 	true
 
-date:   		2014-05-09
-excerpt: 		Well, I guess it's quite obvious that I really enjoy working with Jekyll — <b>with good reasons</b> — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
+date:   		2014-08-09
+excerpt: 		Well, I guess I interested you enough to get you to this page. Feel free to fill out the form below, and I'll reach back out shortly.
 gradient: 		4
 image: 			header-3.jpg
 
 ---
 
-- **Speed:** Static HTML pages are small, lightweight and perform blazingly fast. You'll notice the difference.
-- **Versioning:** Contents and files remain on your computer. Perform backups or keep track of changes via GIT or SVN — *it's quite easy without a database*.
-- **Flexibility:** Ruby and Liquid — *Jekyll's foundation* — empower you to easily extend its functionality. Or just use one of [many plugins](http://jekyllrb.com/docs/plugins/) created by a striving community.
-- **Security:** Anything you'll ever put on your server are static files — chances are good that *you'll never need to worry* about security concerns anymore.
-
-If that still doesn't convince you to at least give it a try, I'd like to encourage you to head over to the [Jekyll website](http://jekyllrb.com) and see it for yourself.
-
-**Heck, it's that good** — I even wrote all of the guides for the theme documentation with it!
-
-Enjoy!
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://rcsevents.typeform.com/to/B4ea7I" data-text="Contact Parkerrr" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by <a href="http://www.typeform.com/?utm_campaign=typeform_B4ea7I&amp;utm_source=website&amp;utm_medium=typeform&amp;utm_content=typeform-embedded&amp;utm_term=English" style="color: #999" target="_blank">Typeform<a/></div>
