@@ -41,7 +41,7 @@ Many great designers are able to communicate their message using only visual rep
 
 So where to start? I decided to pick our colour palette first. Our original logo was in 2 colors, green and blue. In color theory, we're talking the color of money and trust. **Definitely want to keep those two colors, not only for those factors but also to stay familiar to our existing customer base**. I chose one primary color, a sort of light blue, and white for a clean and "transparent" aspect. I would end up using a green color for accent when developing our marketing materials. 
 
-{% include media-image.html file="rcs-guidelines-2.jpg" title="Branding Colors" caption="Part of our Branding Guidelines document shows which colors to use, and where they are most useful." %}
+{% include media-image.html file="rcs-guidelines-2.png" title="Branding Colors" caption="Part of our Branding Guidelines document shows which colors to use, and where they are most useful." %}
 
 However, I wanted to make the RCS logo more iconic, and more recognizeable. So I went back to basics.
 
