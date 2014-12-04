@@ -1,3 +1,28 @@
+---
+
+layout:     default
+title:      Getting Started - With Parkerrr
+type:     post
+navigation:   false
+
+date:       2014-12-02
+excerpt:    A little about me, and what this site is all about.
+categories:   Design
+gradient:     4
+image:      mountains.jpg
+details:    false
+
+author:     Jason Beaton
+bio:      I'm a freelance web architect who enjoys solving problems, and making things look good.
+twitter:    "http://twitter.com/thnkco"
+facebook:     "http://facebook.com/yetle99"
+google:     "http://google.com/+jasonbeaton"
+linkedin:     "www.linkedin.com/pub/jason-beaton/2b/920/942/"
+pinterest:    "http://pinterest.com/yetle99"
+dribbble:     "http://dribbble.com/parkerrr"
+
+---
+
 "So, who is this Parkerrr guy?", you may be asking. I'm a marketer, a designer, and a developer. I'm interested in products, and how people interact with them. 
 
 A question that always enters my head when I look at a new product is, "Why would someone use this?".  The answer is almost always related to the fact that it makes that person's life easier. What I like about marketing is the psychology around deciding to use a product. Design goes hand in hand with marketing, building visual cues, and defining the personality of a product, and development is the truly fun part to me. Building a product with the features customers need and want, and deciding which ones to start with. It's such a fun process to launch a product, and I  truly enjoy every part of the process.
