@@ -1,14 +1,14 @@
 ---
 
 layout:     default
-title:      Ghost Buttons Tutorial: Much Button, So Ghost
+title:      Ghost Buttons: Much Button, Such Ghost.
 type:     post
 navigation:   false
 
 date:       2014-12-17
-excerpt:   I'll show you how to create some cool ghost button styles for your website's CTA.
-categories:   Tuts
-gradient:     3
+excerpt:    In this quick tut, I'll go over some ghost button styling.
+categories:   Design
+gradient:     4
 image:      exposure.jpg
 details:    false
 
@@ -22,6 +22,7 @@ pinterest:    "http://pinterest.com/yetle99"
 dribbble:     "http://dribbble.com/parkerrr"
 
 ---
+
 
 # Ghost buttons: Much Button, Such Ghost
 With the rise of full-image backgrounds on websites, the ghost button style has become a go-to element design to create a unique call to action button that allows the background image to be seen through the button. 

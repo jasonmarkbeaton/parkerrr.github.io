@@ -7,6 +7,106 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Ghost Buttons</title>
+        <description>&lt;h1 id=&quot;ghost-buttons-much-button-such-ghost&quot;&gt;Ghost buttons: Much Button, Such Ghost&lt;/h1&gt;
+&lt;p&gt;With the rise of full-image backgrounds on websites, the ghost button style has become a go-to element design to create a unique call to action button that allows the background image to be seen through the button. &lt;/p&gt;
+
+&lt;p&gt;Click the link for some examples: &lt;a href=&quot;http://websiteswithghostbuttons.tumblr.com/&quot;&gt;Ghost Button Examples&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;so-in-this-write-up-ill-show-you-how-to-create-some-basic-ghost-button-styles-you-can-apply-to-your-site&quot;&gt;So in this write-up, I’ll show you how to create some basic ghost button styles you can apply to your site.&lt;/h3&gt;
+
+&lt;p&gt;I’ll assume that you’ve got a site built out with some links on it. Preferably a call-to-action link somewhere on your page that you’d like to apply this style to. I would suggest using this button styling sparingly. No need to go all &lt;a href=&quot;https://www.youtube.com/watch?v=MghiBW3r65M&quot;&gt;Bob Ross&lt;/a&gt; on this technique. &lt;/p&gt;
+
+&lt;p&gt;I’ll go over 3 basic styles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A basic Style&lt;/li&gt;
+  &lt;li&gt;A hovered-color transition&lt;/li&gt;
+  &lt;li&gt;A size transition effect&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’ll start with assigning a class to your link element. Let’s call this “ghost-button”. It should look something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;ghost-button&quot; href=&quot;#&quot;&gt;Clicky Click&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s look at the CSS of the basic ghost button. 
+### Basic ghost button&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.ghost-button {    display: inline-block;    width: 200px;    padding: 8px;   color: #fff;   border: 1px solid #fff;   text-align: center;   outline: none;   text-decoration: none;   }   .ghost-button:hover,   .ghost-button:active {   background-color: #fff;   color: #000;   }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here, we’re simply adding a background color and changing the color of the text to black so it will show on the (now) white background. on hover and active states. Pretty simple, right? Alright, let’s turn it up a bit.&lt;/p&gt;
+
+&lt;h3 id=&quot;on-hover-color-transition-ghost-button&quot;&gt;On hover-color transition ghost button&lt;/h3&gt;
+
+&lt;p&gt;.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  }&lt;/p&gt;
+
+&lt;p&gt;.ghost-button:hover,
+  .ghost-button:active {
+  background-color: #2a85c3;
+  border-color: #3fbc9f;
+  color: #fff;&lt;/p&gt;
+
+&lt;p&gt;This applies the transition property to gradually change the background color, border color, and text color to whatever you set the values to in the hover and active states. It’s really smooth and it works on all modern browsers (including IE 10 and up).&lt;/p&gt;
+
+&lt;p&gt;This last example is my favorite. it uses the same transition effect, but on the width of the element. It’s a really neat way to animate a button and put emphasis on the CTA. &lt;/p&gt;
+
+&lt;h3 id=&quot;size-transition-ghost-button&quot;&gt;Size transition ghost button&lt;/h3&gt;
+
+&lt;p&gt;.ghost-button {
+  display: inline-block;
+  width: 200px;
+  line-height: 25px;
+  padding: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  }&lt;/p&gt;
+
+&lt;p&gt;ghost-button:hover,
+  ghost-button:active {
+  width: 220px;
+  }&lt;/p&gt;
+
+&lt;p&gt;There are a few things you should look out for on this transition effect. One is the height. Since the transition-property is set to “all”, you can optionally set the hover and active states to include a height change (or anything else you want to transition). You can conditionally set this to just width by changing the transition-property to: &lt;/p&gt;
+
+&lt;p&gt;transition: width .3s ease-in-out;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can add any properties to the hover and active states that you want to transition, but only if you’ve set them in the parent element.  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we’ve explored some different ghost button styles and took advantage of the transition property. You can really go wild with this, but in the essence of minimalism, don’t. CTA’s are there to affirm your decision, not to be a distraction. Leave a comment with a link to your implementation of the ghost button, as I’d love to see what you come up with. Happy coding everyone! &lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Dec 2014 00:00:00 -0500</pubDate>
+        <link>/2014/12/17/Ghost-buttons.html</link>
+        <guid isPermaLink="true">/2014/12/17/Ghost-buttons.html</guid>
+      </item>
+    
+      <item>
         <title>Getting Started - With Parkerrr</title>
         <description>&lt;p&gt;“So, who is this Parkerrr guy?”, you may be asking. I’m a marketer, a designer, and a developer. I’m interested in products, and how people interact with them. &lt;/p&gt;
 
