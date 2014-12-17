@@ -21,6 +21,8 @@ linkedin:     "www.linkedin.com/pub/jason-beaton/2b/920/942/"
 pinterest:    "http://pinterest.com/yetle99"
 dribbble:     "http://dribbble.com/parkerrr"
 
+---
+
 # Ghost buttons: Much Button, Such Ghost
 With the rise of full-image backgrounds on websites, the ghost button style has become a go-to element design to create a unique call to action button that allows the background image to be seen through the button. 
 
