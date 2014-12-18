@@ -64,7 +64,7 @@ Let's look at the CSS of the basic ghost button.
   color: #000;
   }
 {% endhighlight %}
-Here, we're simply adding a background color and changing the color of the text to black so it will show on the (now) white background. on hover and active states. Pretty simple, right? Alright, let's turn it up a bit.
+Here, we're simply adding a background color and changing the color of the text to black so it will show on the (now) white background on hover and active states. Pretty simple, right? Alright, let's turn it up a bit.
 
 ### On hover-color transition ghost button
 {% highlight css %}
