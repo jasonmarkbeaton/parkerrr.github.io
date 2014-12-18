@@ -1,19 +1,19 @@
 ---
 
 layout:     default
-title:      Ghost Buttons: Much Button, Such Ghost.
+title:      Ghost Buttons. Much Button, Such Ghost.
 type:     post
 navigation:   false
 
 date:       2014-12-17
-excerpt:    In this quick tut, I'll go over some ghost button styling.
-categories:   Design
+excerpt:    In this quick tut, I'll go over some ghost button styling. It's on a ton of sites now, and it's a really great way of styling a CTA button if your site has a full background image.
+categories:   Tuts
 gradient:     4
-image:      exposure.jpg
+image:      blackandwhitehut.jpg
 details:    false
 
 author:     Jason Beaton
-bio:      I'm a freelance web architect who enjoys solving problems, and making things look good.
+bio:      I'm a freelance web architect and marketer who enjoys solving problems, and making things look good.
 twitter:    "http://twitter.com/thnkco"
 facebook:     "http://facebook.com/yetle99"
 google:     "http://google.com/+jasonbeaton"
@@ -24,10 +24,12 @@ dribbble:     "http://dribbble.com/parkerrr"
 ---
 
 
-# Ghost buttons: Much Button, Such Ghost
+
 With the rise of full-image backgrounds on websites, the ghost button style has become a go-to element design to create a unique call to action button that allows the background image to be seen through the button. 
 
-Click the link for some examples: [Ghost Button Examples]
+Click the link for more examples: [Ghost Button Examples]
+
+{% include media-image.html file="esposure.jpg" title="Ghost Button example" caption="Exposure uses the ghost button for their CTA. It's well defined, but doesn't stick out too much." %}
 
 ### So in this write-up, I'll show you how to create some basic ghost button styles you can apply to your site.
 
@@ -41,12 +43,12 @@ I'll go over 3 basic styles:
 
 We'll start with assigning a class to your link element. Let's call this "ghost-button". It should look something like this:
   
-  <a class="ghost-button" href="#">Clicky Click</a>
+  {% highlight css %}<a class="ghost-button" href="#">Clicky Click</a>{% endhighlight %}
+Let's look at the CSS of the basic ghost button.
 
-Let's look at the CSS of the basic ghost button. 
 ### Basic ghost button
-
-    .ghost-button { 
+{% highlight css %}
+  .ghost-button { 
   display: inline-block; 
   width: 200px; 
   padding: 8px;
@@ -61,11 +63,11 @@ Let's look at the CSS of the basic ghost button.
   background-color: #fff;
   color: #000;
   }
-
+{% endhighlight %}
 Here, we're simply adding a background color and changing the color of the text to black so it will show on the (now) white background. on hover and active states. Pretty simple, right? Alright, let's turn it up a bit.
 
 ### On hover-color transition ghost button
-
+{% highlight css %}
   .ghost-button {
   display: inline-block;
   width: 200px;
@@ -88,13 +90,13 @@ Here, we're simply adding a background color and changing the color of the text 
   background-color: #2a85c3;
   border-color: #3fbc9f;
   color: #fff;
-
+{% endhighlight %}
 This applies the transition property to gradually change the background color, border color, and text color to whatever you set the values to in the hover and active states. It's really smooth and it works on all modern browsers (including IE 10 and up).
 
 This last example is my favorite. it uses the same transition effect, but on the width of the element. It's a really neat way to animate a button and put emphasis on the CTA. 
 
 ### Size transition ghost button
-
+{% highlight css %}
   .ghost-button {
   display: inline-block;
   width: 200px;
@@ -116,11 +118,11 @@ This last example is my favorite. it uses the same transition effect, but on the
   ghost-button:active {
   width: 220px;
   }
-
+{% endhighlight %}
 There are a few things you should look out for on this transition effect. One is the height. Since the transition-property is set to "all", you can optionally set the hover and active states to include a height change (or anything else you want to transition). You can conditionally set this to just width by changing the transition-property to: 
-  
+{% highlight css %}
   transition: width .3s ease-in-out;
-
+{% endhighlight %}
 > You can add any properties to the hover and active states that you want to transition, but only if you've set them in the parent element.  
 
 So we've explored some different ghost button styles and took advantage of the transition property. You can really go wild with this, but in the essence of minimalism, don't. CTA's are there to affirm your decision, not to be a distraction. Leave a comment with a link to your implementation of the ghost button, as I'd love to see what you come up with. Happy coding everyone! 

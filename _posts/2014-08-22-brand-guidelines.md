@@ -13,7 +13,7 @@ image: 			PROJECT-brand-guidelines.jpg
 details:		false
 
 author: 		Jason Beaton
-bio: 			I'm a freelance web architect who enjoys solving problems, and making things look good.
+bio: 			I'm a freelance web architect and marketer who enjoys solving problems, and making things look good.
 twitter: 		"http://twitter.com/thnkco"
 facebook: 		"http://facebook.com/yetle99"
 google: 		"http://google.com/+jasonbeaton"
