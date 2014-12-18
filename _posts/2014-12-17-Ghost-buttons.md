@@ -119,7 +119,7 @@ This last example is my favorite. it uses the same transition effect, but on the
   width: 220px;
   }
 {% endhighlight %}
-There are a few things you should look out for on this transition effect. One is the height. Since the transition-property is set to "all", you can optionally set the hover and active states to include a height change (or anything else you want to transition). You can conditionally set this to just width by changing the transition-property to: 
+There are a few things you could try out on this transition effect. Like the height. Since the transition-property is set to "all", you can optionally set the hover and active states to include a height change (or anything else you want to transition). You can conditionally set this to just width by changing the transition-property to: 
 {% highlight css %}
   transition: width .3s ease-in-out;
 {% endhighlight %}
