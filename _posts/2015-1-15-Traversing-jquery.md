@@ -5,7 +5,7 @@ title:      Traversing JQuery
 type:     post
 navigation:   false
 
-date:       2014-12-02
+date:       2015-1-6
 excerpt:    A short-ish post on what traversing in JQuery does, and why you should use it.
 categories:   Tuts
 gradient:     4
@@ -63,7 +63,7 @@ Sure, that will grab the last list element, but refactoring your code using trav
     $(document).ready(function() {
       $("#cheese").find("li").last()
     });
-    
+
 That **.find** method helps us traverse the DOM. It's similar to our first approach, as in it gets us the result we're looking for, but it's slightly faster because of a few reasons. 
 
 1.  JQuery is a library built *on top* of javascript. Javascript runs natively in your browser, whereas JQuery has to process it's own javascript code before handing it to the browser. JQuery uses a selector library called [sizzle]. All you really need to understand here is that it's not native to the DOM, so it's slower.
