@@ -35,9 +35,9 @@ Click the link for more examples: [Ghost Button Examples]
 
 I'll assume that you've got a site built out with some links on it. Preferably a call-to-action link somewhere on your page that you'd like to apply this style to. I would suggest using this button styling sparingly. No need to go all [Bob Ross] on this technique. 
 
-I'll go over 3 basic styles:
+I'll go over 3 styles:
 
-* A basic Style
+* A basic style
 * A hovered-color transition
 * A size transition effect
 
