@@ -1,35 +1,38 @@
-{% if page.next or page.previous %}
-
-	{% if page.previous %}
-		{% assign teaser = page.previous %}
-	{% elsif page.next  %}
-		{% assign teaser = page.next %}
-	{% endif %}
-
-	{% if teaser.gradient and teaser.gradient > 0 and teaser.gradient < 6 %}
-		{% assign gradient = teaser.gradient %}
-	{% else %}
-		{% assign gradient = 1 %}
-	{% endif %}
-
-	<section class="teaser gradient-{{ gradient }}" data-animation="fadeInUp">
-	      
-		<div class="excerpt">
-	            
-		
-
-			{% if teaser.title %}
-				<h1><a href="{{ teaser.url | prepend: site.baseurl }}" title="{{ teaser.title }}">{{ teaser.title }}</a></h1>
-			{% endif %}
-
-			<p>{{ teaser.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-
-			{% if teaser.date or teaser.categories %}
-				<span class="meta">Published {{ teaser.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ teaser.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
-			{% endif %}
-
-		</div>
-
-	</section>
-
+{% if page.previous %}
+<div class="paging">
+  <a rel="prev" href="{{ page.previous.url }}" class="paging__link" id="prev">
+    <h3>Previous Post</h3>
+    <h4>
+      {{ page.previous.title }}
+    </h4>
+  </a>
+</div>
+{% else %}
+<div class="paging">
+  <a rel="home" href="{{ site.baseurl }}" class="paging__link" id="next">
+    <h3>Go Home</h3>
+    <h4>
+      Game Over
+    </h4>
+  </a>
+</div>
+{% endif %}
+{% if page.next %}
+<div class="paging">
+  <a rel="next" href="{{ page.next.url }}" class="paging__link" id="next">
+    <h3>Next Post</h3>
+    <h4>
+      {{ page.next.title }}
+    </h4>
+  </a>
+</div>
+{% else %}
+<div class="paging">
+  <a rel="home" href="{{ site.baseurl }}" class="paging__link" id="next">
+    <h3>Go Home</h3>
+    <h4>
+      Game Over
+    </h4>
+  </a>
+</div>
 {% endif %}

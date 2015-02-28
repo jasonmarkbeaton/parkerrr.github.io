@@ -1,27 +1,20 @@
 ---
-
-layout:     default
-title:      Parkerrr - Web Architect, Designer, Buritto Connoisseur 
-type:       home
-navigation: true
-
-date:       2014-08-22
-image:      header-1.jpg
-excerpt:    I'm a <i>Web Developer</i> with a focus on <b>design</b> and <b>data</b>. Startups are a passion of mine, and proving business strategies is my favorite hobby. 
-gradient:   1
-
+layout: home
 ---
-
-<div class="summary">
-
-  <p>I'd like to help with design and development of your startup, or other business. I'm focused in <i>Ruby on Rails</i>, and have years of experience in front-end development, and design. If you'd like to get in touch, feel free to reach out to me. <a href="/get-in-touch.html" title="Continue" class="more">Continue</a></p>
-
-</div>
-<h2>My kind-of, sort-of blog.</h2>
-<p>Sometimes it's a project I'm working on, other times it's startup related. I just write what's on my mind, and show off things I'm proud of. </p>
-
+<section class="main">
+<nav class="tabs">
+  <a href="#work">Work</a>
+  <a href="#thoughts">Thoughts</a>
+</nav>
 {% for post in paginator.posts %}
-
-  {% include summary.html %}
-  
+<ul class="posts">
+  <li>
+    <a href="{{ post.url }}" class="type--{{ post.category }}">
+    <span class="type">{{ post.category }}</span>
+    <h2>{{ post.title }}</h2>
+    </a>
+    <div class="eta"></div>
+  </li>
+</ul>
 {% endfor %}
+</section>

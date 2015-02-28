@@ -1,41 +1,32 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Parkerrr - Web Architect, Designer, Buritto Connoisseur. 
+  </title>
+<!--   <script src="//use.typekit.net/ufy4cdy.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script> -->
+  <link rel="stylesheet" href="/css/style.css" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
+  <script src="//use.typekit.net/ufy4cdy.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
 
-{% if page.gradient and page.gradient > 0 and page.gradient < 6 %}
-	{% assign gradient = page.gradient %}
-{% else %}
-	{% assign gradient = 1 %}
-{% endif %}
-
-<section class="content">
-  
-	<article>
-    
-		<header class="gradient-{{ gradient }}" data-animation="fadeInDownBig">
-
-			{% include excerpt.html %}
-
-		</header>
-
-		<div class="body" data-animation="fadeInUp">
-
-			{{ content }}
-
-		</div>
-
-		<footer>
-
-			{% include meta.html %}
-
-			{% include comments.html %}
-
-			{% include pagination.html %}
-
-		</footer>
-
-	</article>
-
-</section>
-
-{% include teaser.html %}
+    {{ content }}
 
 {% include footer.html %}
+<script src="/js/readingTime.min.js"></script>
+<script src="/js/time.js"></script>
+<script>
+$(function() {
+      
+        $('article').readingTime({
+          wordCountTarget: '.words',
+        });
+        
+      });
+</script>
+</body>
+</html>
