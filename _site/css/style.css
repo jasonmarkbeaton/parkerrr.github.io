@@ -38,6 +38,9 @@ audio:not([controls]) {
   display: none;
   height: 0; }
 
+[hidden], template {
+  display: none; }
+
 html {
   background: white;
   color: black;
@@ -488,7 +491,7 @@ footer {
     letter-spacing: 0.1em; }
 
 header.home {
-  background: #06113a url(../images/parkerrr-profile.jpg) center;
+  background: #06113a url(../images/parkerrr-profile.jpg) top center;
   min-height: 60%;
   padding: 2em 1.5em;
   box-sizing: border-box; }
@@ -687,19 +690,14 @@ article {
         article blockquote p cite a {
           color: #4a90e2; }
   article .paging {
-    display: inline;
-    float: left;
-    width: 50%;
     margin: 5em 0 3em;
     border-top: 1px dotted #cccccc;
     border-bottom: 1px dotted #cccccc;
-    text-align: center;
-    overflow: hidden; }
+    text-align: center; }
     article .paging h4 {
       margin: 0 0 1.5em;
       font: 2em/1 lust, serif;
       color: #06113a; }
-
 
 .content--intro {
   font: italic 1.25em/1.75 "freight-text-pro", serif;
