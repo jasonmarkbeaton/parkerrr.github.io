@@ -228,16 +228,20 @@ html, body {
       padding-left: 2.5em;
       padding-right: 2.5em; } }
 
-.header--interior {
+.header--interior, .header--interior a {
   padding-left: 1em;
   padding-right: 1em; }
   @media screen and (min-width: 50em) {
-    .header--interior {
+    .header--interior, .header--interior a {
       padding-left: 2.5em;
       padding-right: 2.5em; } }
+.header--interior img {
+  margin-top: 45px;
+  max-height: 100px;
+}
 
 a {
-  color: #4a90e2;
+  color: #c7b38f;
   text-decoration: none; }
 
 body, input, textarea {
@@ -329,8 +333,8 @@ hr {
       padding: 4.75em 1em;
       font: 400 0.875em/1 effra, sans-serif; } }
   .header--interior nav a:hover, .header--interior nav a.active {
-    color: #4a90e2;
-    border-top: 4px solid #4a90e2; }
+    color: #c7b38f;
+    border-top: 4px solid #c7b38f; }
 
 @media screen and (min-width: 50em) {
   .header--interior {
@@ -375,7 +379,7 @@ hr {
     .header--interior h1 a:hover:before {
       -webkit-transform: rotate(315deg);
       transform: rotate(315deg);
-      background: #4a90e2; }
+      background: #c7b38f; }
 .header--interior nav a {
   -webkit-transition: padding 0.2s ease-in-out;
   transition: padding 0.2s ease-in-out; }
@@ -422,7 +426,7 @@ ul.social-buttons {
       position: absolute;
       display: block;
       content: "";
-      background: #4a90e2;
+      background: #c7b38f;
       width: 2.5em;
       height: 2.5em;
       z-index: -1;
@@ -517,7 +521,7 @@ header.home {
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease; }
     header.home h1 a:hover {
-      color: #4a90e2; }
+      color: #c7b38f; }
   header.home p {
     color: white;
     font: 300 2em/1.25em effra, sans-serif;
@@ -554,11 +558,11 @@ header.home {
         .main .tabs {
           display: flex; } } }
   .main .tabs a {
-    background: #161a2a;
+    background: #AF966F;
     font: 600 1rem/1 effra, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.2em;
-    color: #405399;
+    color: white;
     width: 50%;
     display: block;
     float: left;
@@ -571,37 +575,39 @@ header.home {
         .main .tabs a {
           float: none; } } }
     .main .tabs a:hover {
-      background: #4a90e2;
-      color: white; }
+      background: #c7b38f;
+      color: #58595B; }
     .main .tabs a.selected {
       color: white; }
 
 .posts {
   margin: 0;
   padding: 0;
-  list-style: none; }
+  list-style: none;
+  background-color: #EBE7D7; }
   .posts h2 {
     font: 1.375em/1.375 "freight-text-pro", serif;
-    color: #06113a;
+    color: #c7b38f;
     margin: 0; }
   .posts .type {
     font: 600 0.8em/1 effra, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin-bottom: 0.75em;
-    display: block; }
+    display: block;
+    color: #58595B; }
   .posts li a {
     padding: 2em;
     display: block;
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: border-left 0.3s ease;
     transition: border-left 0.3s ease;
-    border-left: 0 solid #4a90e2; }
+    border-left: 0 solid #c7b38f; }
     @media screen and (min-width: 50em) {
       .posts li a {
         padding: 2em 3em; } }
     .posts li a:hover {
-      border-left: 6px solid #4a90e2; }
+      border-left: 6px solid #c7b38f; }
 
 h1.page-title {
   font-size: 2.5em;
@@ -616,7 +622,7 @@ article {
     article {
       padding-top: 12em; } }
   article a {
-    border-bottom: 1px solid #4a90e2;
+    border-bottom: 1px solid #c7b38f;
     -webkit-transition: all 0.1s ease;
     transition: all 0.1s ease; }
     article a:hover {
@@ -628,7 +634,7 @@ article {
     display: block; }
   article time, article .post--tag {
     font: 600 1em/1 effra, sans-serif;
-    color: #4a90e2;
+    color: #c7b38f;
     text-transform: uppercase;
     letter-spacing: 0.15em; }
   article p {
@@ -636,7 +642,7 @@ article {
     line-height: 2; }
     article p:first-child:first-letter {
       font: 3.625em/1 lust, serif;
-      color: #4a90e2;
+      color: #c7b38f;
       float: left;
       margin: 0.1em 0.25em 0 0; }
   article li {
@@ -655,7 +661,7 @@ article {
         margin-left: auto;
         margin-right: auto; } }
   article h2 {
-    color: #4a90e2;
+    color: #c7b38f;
     margin-top: 2.5em; }
   article h3 {
     margin-top: 2.5em;
@@ -666,7 +672,7 @@ article {
   article blockquote {
     margin: 1.5em 0 1.5em -2.5em;
     padding: 1em 0 1em 2.5em;
-    border-left: 3px solid #4a90e2; }
+    border-left: 3px solid #c7b38f; }
     @media screen and (min-width: 50em) {
       article blockquote {
         margin: 3em 0 3em -3em;
@@ -688,7 +694,7 @@ article {
       article blockquote p cite {
         font: normal 1rem/1 effra, sans-serif; }
         article blockquote p cite a {
-          color: #4a90e2; }
+          color: #c7b38f; }
   article .paging {
     margin: 5em 0 3em;
     border-top: 1px dotted #cccccc;
