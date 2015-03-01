@@ -236,8 +236,10 @@ html, body {
       padding-left: 2.5em;
       padding-right: 2.5em; } }
 .header--interior img {
-  margin-top: 45px;
-  max-height: 100px;
+  position: absolute;
+  max-height: 42px;
+  top: -5px;
+  left: -11px;
 }
 
 a {
