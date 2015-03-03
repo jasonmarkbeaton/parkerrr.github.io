@@ -705,7 +705,9 @@ article {
     margin: 5em 0 3em;
     border-top: 1px dotted #cccccc;
     border-bottom: 1px dotted #cccccc;
-    text-align: center; }
+    text-align: center;
+    width: 50%;
+    float: left; }
     article .paging h4 {
       margin: 0 0 1.5em;
       font: 2em/1 lust, serif;
