@@ -414,6 +414,9 @@ ul.social-buttons {
     ul.social-buttons li.social--dribbble a:before {
       top: -0.45em;
       left: -0.5em; }
+    ul.social-buttons li.social--github a:before {
+      top: -0.45em;
+      left: -0.5em; }
   ul.social-buttons li[class*="social"] a {
     position: relative;
     display: block;
