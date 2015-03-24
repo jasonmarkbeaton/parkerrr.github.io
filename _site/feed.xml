@@ -7,102 +7,6 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Testing A Thing</title>
-        <description>&lt;header class=&quot;header--interior&quot;&gt;
-  &lt;h1&gt;&lt;a href=&quot;&quot; title=&quot;Back to Homepage&quot;&gt;&lt;img src=&quot;/apple-touch-icon.png&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-  &lt;nav role=&quot;navigation&quot;&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a  href=&quot;/#work&quot;&gt;Work&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a class=&quot;active&quot; href=&quot;/#thoughts&quot;&gt;Thoughts&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/nav&gt;
-&lt;/header&gt;
-
-
-&lt;article class=&quot;page page--work&quot;&gt;
-
-
-
-  &lt;time datetime=&quot;2015-02-18T16:57:51Z&quot;&gt;
-    19 February 2015
-  &lt;/time&gt;
-
-&lt;p&gt;Reading Time: &lt;span class=&quot;eta&quot;&gt;&lt;/span&gt;&lt;/p&gt;  
-&lt;h1 class=&quot;page-title&quot;&gt;Testing A Thing and some other stuff&lt;/h1&gt;
-  
-   
-  &lt;div class=&quot;content--post&quot;&gt;
-    &lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;And yet, even that proved to be difficult.&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;h2&gt;“I’m never going to be good anyway.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;h2&gt;“You won’t have enough time, just do it tomorrow.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. &lt;em&gt;Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It matters not how strait the gate,&lt;br&gt;
-How charge with punishments the scroll, &lt;br&gt;
-I am the master of my fate,&lt;br&gt;
-I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
-— William Ernest Henley&lt;/p&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;nav--share&quot;&gt;
-    &lt;a href=&quot;http://twitter.com/share&quot; class=&quot;popup&quot;&gt;
-      &lt;span class=&quot;icon-twitter&quot;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-  
-&lt;div class=&quot;paging&quot;&gt;
-  &lt;a rel=&quot;prev&quot; href=&quot;/thoughts/2015/01/15/Traversing-jquery.html&quot; class=&quot;paging__link&quot; id=&quot;prev&quot;&gt;
-    &lt;h3&gt;Previous Post&lt;/h3&gt;
-    &lt;h4&gt;
-      Traversing Jquery
-    &lt;/h4&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;paging&quot;&gt;
-  &lt;a rel=&quot;home&quot; href=&quot;&quot; class=&quot;paging__link&quot; id=&quot;next&quot;&gt;
-    &lt;h3&gt;Go Home&lt;/h3&gt;
-    &lt;h4&gt;
-      Game Over
-    &lt;/h4&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-&lt;/article&gt;
-</description>
-        <pubDate>Thu, 19 Feb 2015 00:00:00 -0500</pubDate>
-        <link>/work/2015/02/19/Testing-a-thing.html</link>
-        <guid isPermaLink="true">/work/2015/02/19/Testing-a-thing.html</guid>
-      </item>
-    
-      <item>
         <title>Traversing Jquery</title>
         <description>&lt;header class=&quot;header--interior&quot;&gt;
  &lt;h1&gt;&lt;a href=&quot;&quot; title=&quot;Back to Homepage&quot;&gt;&lt;img src=&quot;/apple-touch-icon.png&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
@@ -129,51 +33,56 @@ I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
   
    
   &lt;div class=&quot;content--post&quot;&gt;
-    &lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+    &lt;p&gt;There are some really great ways to speed up your JQuery, (which is really what getting good at developing is all about) like:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Always descend from an #id&lt;/li&gt;
+  &lt;li&gt;Chaining your methods&lt;/li&gt;
+  &lt;li&gt;Traversing the DOM&lt;/li&gt;
+  &lt;li&gt;And many more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+I&#39;d like to focus on traversing, since it&#39;s one of those magical features of JQuery that can be hard for beginners to comprehend.
 &lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;h2&gt;What&#39;s it all about?&lt;/h2&gt;
+&lt;p&gt;When first learning JQuery, the concept of traversing can be confusing. It&#39;s more typing, but it works faster. Why?
 &lt;/p&gt;
 
-&lt;p&gt;And yet, even that proved to be difficult.&lt;/p&gt;
+&lt;p&gt;First, check out this &lt;a href=&quot;http://jsperf.com/find-select-speed-test/3&quot;&gt;Speed Test&lt;/a&gt;
+You&#39;ll see that the clear winner (by speed) is the traversal.&lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;Now, the explanation in the simplest terms I can provide.
 &lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;So we have a list of cheeses, wrapped in an unordered list with an id of &quot;kindofCheese&quot;, in a div with an id of &quot;cheese&quot;. With some basic knowledge of JQuery you may have learned that if you want to select the last cheese in that list, you would use the following code...&lt;/p&gt;
+
+&lt;pre&gt;$(document).ready(function() {
+      $(&quot;#cheese li:last&quot;)
+    });&lt;/pre&gt;
+
+&lt;p&gt;Sure, that will grab the last list element, but refactoring your code using traversal can make this query run faster.
 &lt;/p&gt;
 
-&lt;h2&gt;“I’m never going to be good anyway.”&lt;/h2&gt;
+&lt;pre&gt;$(document).ready(function() {
+      $(&quot;#cheese&quot;).find(&quot;li&quot;).last()
+    });&lt;/pre&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;That &lt;em&gt;.find&lt;/em&gt; method helps us traverse the DOM. It&#39;s similar to our first approach, as in it gets us the result we&#39;re looking for, but it&#39;s slightly faster because of a few reasons. 
 &lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;JQuery is a library built *on top* of javascript. Javascript runs natively in your browser, whereas JQuery has to process it&#39;s own javascript code before handing it to the browser. JQuery uses a selector library called [sizzle]. All you really need to understand here is that it&#39;s not native to the DOM, so it&#39;s slower.&lt;/li&gt;
+  &lt;li&gt;Here&#39;s where it gets tricky. When you use more than one element in a JQuery selector, it HAS to use Sizzle to process. On the flip-side, if you use single elements in your selector, JQuery utilizes native DOM methods _(like getElementsByClassName, and getElementsByTagName)_ so you can take advantage of the native DOM speed benefits.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2&gt;“You won’t have enough time, just do it tomorrow.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. &lt;em&gt;Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;h2&gt;“Everyone will know you’re a beginner and pity you.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;h2&gt;Short and Sweet&lt;/h2&gt;
+&lt;p&gt;So when you&#39;re building out your mega-giant-monolith application keep in mind that refactoring your javascript can save you a significant amount of speed by traversing the DOM natively. Likewise, you can just stop using JQuery, and go full-metal-jacket style into javascript so that you&#39;re only using native DOM methods. 
 &lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;I hope this short article helps those who are beginning to learn JQuery to get a solid understanding of what things to look out for, so you can get started on the right foot and have an idea of where to start refactoring your code. 
 &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It matters not how strait the gate,&lt;br&gt;
-How charge with punishments the scroll, &lt;br&gt;
-I am the master of my fate,&lt;br&gt;
-I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
-— William Ernest Henley&lt;/p&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;nav--share&quot;&gt;
@@ -193,10 +102,10 @@ I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
 
 
 &lt;div class=&quot;paging&quot;&gt;
-  &lt;a rel=&quot;next&quot; href=&quot;/work/2015/02/19/Testing-a-thing.html&quot; class=&quot;paging__link&quot; id=&quot;next&quot;&gt;
-    &lt;h3&gt;Next Post&lt;/h3&gt;
+  &lt;a rel=&quot;home&quot; href=&quot;&quot; class=&quot;paging__link&quot; id=&quot;next&quot;&gt;
+    &lt;h3&gt;Go Home&lt;/h3&gt;
     &lt;h4&gt;
-      Testing A Thing
+      Game Over
     &lt;/h4&gt;
   &lt;/a&gt;
 &lt;/div&gt;
@@ -238,51 +147,112 @@ I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
   
    
   &lt;div class=&quot;content--post&quot;&gt;
-    &lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+    &lt;p&gt;With the rise of full-image backgrounds on websites, the ghost button style has become a go-to element design to create a unique call to action button that allows the background image to be seen through the button.&lt;/p&gt;
+
+    &lt;h2&gt;Here are some &lt;a href=&quot;http://websiteswithghostbuttons.tumblr.com/&quot;&gt;examples&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I&#39;ll assume that you&#39;ve got a site built out with some links on it. Preferably a call-to-action link somewhere on your page that you&#39;d like to apply this style to. I would suggest using this button styling sparingly. No need to go all &lt;a href=&quot;https://www.youtube.com/watch?v=MghiBW3r65M&quot;&gt;Bob Ross&lt;/a&gt; on this technique. 
 &lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;I&#39;ll go over 3 styles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A basic style&lt;/li&gt;
+  &lt;li&gt;A hovered-color transition&lt;/li&gt;
+  &lt;li&gt;A size transition effect&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&#39;ll start with assigning a class to your link element. Let&#39;s call this &quot;ghost-button&quot;. It should look something like this:
 &lt;/p&gt;
 
-&lt;p&gt;And yet, even that proved to be difficult.&lt;/p&gt;
+&lt;pre&gt;&lt;a class=&quot;ghost-button&quot; href=&quot;#&quot;&gt;Clicky Click&lt;/a&gt;&lt;/pre&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;Let&#39;s look at the CSS of the basic ghost button.&lt;/p&gt;
+&lt;h2&gt;Basic ghost button&lt;/h2&gt;
+&lt;pre&gt;
+  .ghost-button { 
+  display: inline-block; 
+  width: 200px; 
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  }
+  .ghost-button:hover,
+  .ghost-button:active {
+  background-color: #fff;
+  color: #000;
+  }
+&lt;/pre&gt;
+
+&lt;p&gt;Here, we&#39;re simply adding a background color and changing the color of the text to black so it will show on the (now) white background on hover and active states. Pretty simple, right? Alright, let&#39;s turn it up a bit.&lt;/p&gt;
+
+&lt;h2&gt;On hover-color transition ghost button&lt;/h2&gt;
+
+&lt;pre&gt;.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  }
+  &lt;/pre&gt;
+&lt;pre&gt;
+  .ghost-button:hover,
+  .ghost-button:active {
+  background-color: #2a85c3;
+  border-color: #3fbc9f;
+  color: #fff;&lt;/pre&gt;
+
+&lt;p&gt;This applies the transition property to gradually change the background color, border color, and text color to whatever you set the values to in the hover and active states. It&#39;s really smooth and it works on all modern browsers (including IE 10 and up).
 &lt;/p&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;This last example is my favorite. it uses the same transition effect, but on the width of the element. It&#39;s a really neat way to animate a button and put emphasis on the CTA.
 &lt;/p&gt;
 
-&lt;h2&gt;“I’m never going to be good anyway.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;h2&gt;“You won’t have enough time, just do it tomorrow.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. &lt;em&gt;Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;h2&gt;“Everyone will know you’re a beginner and pity you.”&lt;/h2&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
-
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
-&lt;/p&gt;
+&lt;h2&gt;Size transition ghost button&lt;/h2&gt;
+&lt;pre&gt;.ghost-button {
+  display: inline-block;
+  width: 200px;
+  line-height: 25px;
+  padding: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  }&lt;/pre&gt;
+  &lt;pre&gt;.ghost-button:hover,
+  .ghost-button:active {
+  width: 220px;
+  }&lt;/pre&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu.
+&lt;p&gt;There are a few things you could try out on this transition effect. Like the height. Since the transition-property is set to &quot;all&quot;, you can optionally set the hover and active states to include a height change (or anything else you want to transition). You can conditionally set this to just width by changing the transition-property to: 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;It matters not how strait the gate,&lt;br&gt;
-How charge with punishments the scroll, &lt;br&gt;
-I am the master of my fate,&lt;br&gt;
-I am the captain of my soul.&lt;/em&gt;&lt;br&gt;
-— William Ernest Henley&lt;/p&gt;
+&lt;pre&gt;transition: width .3s ease-in-out;&lt;/pre&gt;
+
+&lt;p&gt;You can add any properties to the hover and active states that you want to transition, but only if you&#39;ve set them in the parent element.&lt;/p&gt;
+
+&lt;p&gt;So we&#39;ve explored some different ghost button styles and took advantage of the transition property. You can really go wild with this, but in the essence of minimalism, don&#39;t. CTA&#39;s are there to affirm your decision, not to be a distraction. Leave a comment with a link to your implementation of the ghost button, as I&#39;d love to see what you come up with. Happy coding everyone! &lt;/p&gt;
 
   &lt;/div&gt;
   &lt;div class=&quot;nav--share&quot;&gt;
