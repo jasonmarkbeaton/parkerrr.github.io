@@ -77,7 +77,7 @@ You'll see that the clear winner (by speed) is the traversal.</p>
 
 <ol>
   <li>JQuery is a library built *on top* of javascript. Javascript runs natively in your browser, whereas JQuery has to process it's own javascript code before handing it to the browser. JQuery uses a selector library called [sizzle]. All you really need to understand here is that it's not native to the DOM, so it's slower.</li>
-  <li>Here's where it gets tricky. When you use more than one element in a JQuery selector, it HAS to use Sizzle to process. On the flip-side, if you use single elements in your selector, JQuery utilizes native DOM methods _(like getElementsByClassName, and getElementsByTagName)_ so you can take advantage of the native DOM speed benefits.</li>
+  <li>Here's where it gets tricky. When you use more than one element in a JQuery selector, it HAS to use <a href="http://sizzlejs.com/">Sizzle</a> to process. On the flip-side, if you use single elements in your selector, JQuery utilizes native DOM methods _(like getElementsByClassName, and getElementsByTagName)_ so you can take advantage of the native DOM speed benefits.</li>
 </ol>
 
 <h2>Short and Sweet</h2>
@@ -97,7 +97,7 @@ You'll see that the clear winner (by speed) is the traversal.</p>
   </div>
   
 <div class="paging">
-  <a rel="prev" href="/work/2014/12/17/Ghost-buttons.html" class="paging__link" id="prev">
+  <a rel="prev" href="/thoughts/2014/12/17/Ghost-buttons.html" class="paging__link" id="prev">
     <h3>Previous Post</h3>
     <h4>
       Ghost Buttons
